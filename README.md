@@ -1,5 +1,5 @@
-# Python-Programming-Basics Part - I
-In this file I have discussed some **Python Programming** *Basics* .  
+# Python Programming Basics Part-I
+In this file I have discussed *Basics* of **Python Programming**.  
 In this file I have covered 
 * __Basics__
 * __Data Types__
