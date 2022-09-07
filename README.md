@@ -20,5 +20,4 @@ In this file I have covered
 * __Matplotlib__
 * __SeaBorn__
 
-**Note :-**
-           Everything is just Basics here but really very helpful for just beginners without **non - coading background** person.
+**Note :-** Everything is just Basics here but really very helpful for just beginners without **non - coading background** person.
